@@ -2,7 +2,7 @@
 
 **AI/ML Engineering Student | Systems & Designs | Creative Writing**
 
-I build tools that are intentional, calm, and human-centered — where technology meets thoughtful design.
+I build tools that are intentional, calm, and human-centered, where technology meets thoughtful design.
 
 ---
 
@@ -31,14 +31,14 @@ I build tools that are intentional, calm, and human-centered — where technolog
 
 ---
 
-### 🌱 Beyond Code
+### 🦩 Beyond Code
 
 I don't just write code — I write about it too.
 
 - **Assistant Editor** to an anonymous author  
-- **Content Lead** for my college tech community  
-- Passionate about making complex ideas feel simple and human  
-- Scored 97/100 in English (CBSE Boards, topped Maharashtra)
+- **Creative Content Writing Lead** @localdev
+- Vigorous about making complex ideas feel simple and human  
+- Scored 97/100 in English (CBSE Boards, topped Maharashtra) [i 🤍 english lit]
 
 I believe good products need good words. My technical background helps me understand *how* things work; my writing helps me explain *why* they matter.
 
