@@ -1,4 +1,4 @@
-# Hi, I'm Uma Salunke  👋
+# hii, I'm Uma Salunke ;)
 
 **AI/ML Engineering Student | Systems & Designs | Creative Writing**
 
@@ -6,7 +6,7 @@ I build tools that are intentional, calm, and human-centered, where technology m
 
 ---
 
-### 🛠️ What I Build
+### 🍷What I Build
 
 **Android Development**
 - [Cursive](link-when-ready) — Privacy-first mood journaling app (Kotlin, MVVM, Firebase, Material Design)
@@ -56,9 +56,9 @@ I believe good products need good words. My technical background helps me unders
 
 ---
 
-### 📫 Let's Connect
+### 📫Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/umasalunke7) • [Email](mailto:uma2007salunke@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/umasalunke7) • [Email](mailto:umasalunke7@gmail.com)
 
 ---
 
