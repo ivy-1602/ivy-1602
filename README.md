@@ -10,7 +10,7 @@ I build tools that are intentional, calm, and human-centered, where technology m
 
 **Android Development**
 - [Cursive](https://github.com/ivy-1602/Cursive) — Privacy-first mood journaling app (Kotlin, MVVM, Firebase, Material Design)
-- [LetsConnect](link-when-ready) — Mentor-mentee matching platform
+- [LetsConnect](https://github.com/ivy-1602/LetsConnect) — Mentor-mentee matching platform
 
 **AI/ML Projects**
 - GNSS Satellite Error Prediction Model (with full-stack implementation)
