@@ -3,7 +3,7 @@
 **AI/ML Engineering Student | Systems & Designs | Creative Writing**
 
 I build tools that are intentional, calm, and human-centered, where technology meets thoughtful design.
-
+..
 ---
 
 ### 🍷What I Build
