@@ -1,6 +1,6 @@
 # hii, I'm Uma Salunke ;)
 
-**AI/ML Engineering Student | Systems & Designs | Creative Writing**..
+**AI/ML Engineering Student | Systems & Designs | Creative Writing**
 
 I build tools that are intentional, calm, and human-centered, where technology meets thoughtful design.
 
